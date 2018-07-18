@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540897685702",
+    "firebase_url": "https://note-70834.firebaseio.com",
+    "project_id": "note-70834",
+    "storage_bucket": "note-70834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540897685702:android:17818e02d970737a",
+        "android_client_info": {
+          "package_name": "goods.cap.app.candynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540897685702-i4mu6a82up8bote4fea5sb1g7gl650j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "goods.cap.app.candynote",
+            "certificate_hash": "cd07e3753282586f2ac6118feb20f06718a4bed3"
+          }
+        },
+        {
+          "client_id": "540897685702-648134cbbas6kcnroeavhfq27q7s3flf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfZVQ5BvpTrLQ5x9H913MbBZmPdo0NErk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540897685702-648134cbbas6kcnroeavhfq27q7s3flf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

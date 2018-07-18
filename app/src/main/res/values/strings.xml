@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CandyNote</string>
+    <string name="default_title">Search some Korean!</string>
+    <string name="not_found">Sorry, search nothing.</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input!</string>
+    <string name="ocr_not_supported">Sorry! Your device doesn\'t support camera capture!</string>
+    <string name="tap_on_mic">Tap on mic to\n speak</string>
+    <string name="tap_on_camera">Tap on camera to\ncapture text</string>
+    <string name="tap_on_pen">Tap on pen to\n write text</string>
+    <string name="choose_service">Choose something</string>
+    <string name="tap_on_tts">Listen to korean</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_search_history">History</string>
+    <string name="menu_reload">Reload</string>
+    <string name="tts_not_setup">Sorry! Your device doesn\'t support text to speech!</string>
+    <string name="permission_ok">Permission setting is success!</string>
+</resources>
